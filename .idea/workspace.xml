@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a45085b-d0c5-4a57-b99e-00c79e07406f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/05.字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/05.字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/06.列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/06.列表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/08.字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/08.字典.py" afterDir="false" />
-    </list>
+    <list default="true" id="8a45085b-d0c5-4a57-b99e-00c79e07406f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +35,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.08.字典">
-    <configuration name="05.字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.20.正则">
+    <configuration name="16.面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +52,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/05.字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/16.面向对象.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06.列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17.json功能" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +74,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/06.列表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/17.json功能.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07.元组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="18.server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/07.元组.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/18.server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08.字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="19.多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/08.字典.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/19.多线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15.异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20.正则" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +140,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/15.异常处理.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/20.正则.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.08.字典" />
-        <item itemvalue="Python.07.元组" />
-        <item itemvalue="Python.06.列表" />
-        <item itemvalue="Python.05.字符串" />
-        <item itemvalue="Python.15.异常处理" />
+        <item itemvalue="Python.20.正则" />
+        <item itemvalue="Python.19.多线程" />
+        <item itemvalue="Python.18.server" />
+        <item itemvalue="Python.17.json功能" />
+        <item itemvalue="Python.16.面向对象" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +184,7 @@
       <workItem from="1590216574876" duration="3274000" />
       <workItem from="1590219876595" duration="27000" />
       <workItem from="1590219912427" duration="17302000" />
-      <workItem from="1590299915148" duration="6995000" />
+      <workItem from="1590299915148" duration="19184000" />
     </task>
     <servers />
   </component>
@@ -215,60 +212,69 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="864" height="153" key="GridCell.Tab.-1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590219928796" />
-    <state width="864" height="171" key="GridCell.Tab.0.bottom" timestamp="1590307472077">
+    <state width="864" height="203" key="GridCell.Tab.0.bottom" timestamp="1590325846521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472077" />
-    <state width="864" height="171" key="GridCell.Tab.0.center" timestamp="1590307472077">
+    <state width="864" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846521" />
+    <state width="864" height="203" key="GridCell.Tab.0.center" timestamp="1590325846520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472077" />
-    <state width="864" height="171" key="GridCell.Tab.0.left" timestamp="1590307472077">
+    <state width="864" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846520" />
+    <state width="864" height="203" key="GridCell.Tab.0.left" timestamp="1590325846520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472077" />
-    <state width="864" height="171" key="GridCell.Tab.0.right" timestamp="1590307472077">
+    <state width="864" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846520" />
+    <state width="864" height="203" key="GridCell.Tab.0.right" timestamp="1590325846521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472077" />
-    <state width="864" height="171" key="GridCell.Tab.1.bottom" timestamp="1590307472019">
+    <state width="864" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846521" />
+    <state width="864" height="203" key="GridCell.Tab.1.bottom" timestamp="1590325846521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472019" />
-    <state width="864" height="171" key="GridCell.Tab.1.center" timestamp="1590307472019">
+    <state width="864" height="203" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846521" />
+    <state width="864" height="203" key="GridCell.Tab.1.center" timestamp="1590325846521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472019" />
-    <state width="864" height="171" key="GridCell.Tab.1.left" timestamp="1590307472019">
+    <state width="864" height="203" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846521" />
+    <state width="864" height="203" key="GridCell.Tab.1.left" timestamp="1590325846521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472019" />
-    <state width="864" height="171" key="GridCell.Tab.1.right" timestamp="1590307472019">
+    <state width="864" height="203" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846521" />
+    <state width="864" height="203" key="GridCell.Tab.1.right" timestamp="1590325846521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="864" height="171" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590307472019" />
+    <state width="864" height="203" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590325846521" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1590222751689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590222751689" />
-    <state x="623" y="225" width="672" height="676" key="search.everywhere.popup" timestamp="1590302875864">
+    <state x="2379" y="187" width="697" height="801" key="dock-window-1" timestamp="1590312235638">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2379" y="187" width="697" height="801" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590312235638" />
+    <state x="623" y="225" width="672" height="676" key="search.everywhere.popup" timestamp="1590323877713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590302875864" />
+    <state x="623" y="225" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590323877713" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearnPython27$10_.coverage" NAME="10.函数 Coverage Results" MODIFIED="1590233812303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$05_.coverage" NAME="05.字符串 Coverage Results" MODIFIED="1590305823911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LearnPython27$19_.coverage" NAME="19.多线程 Coverage Results" MODIFIED="1590323168680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$06_.coverage" NAME="06.列表 Coverage Results" MODIFIED="1590306711229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$test.coverage" NAME="test Coverage Results" MODIFIED="1590220269495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LearnPython27$18_server.coverage" NAME="18.server Coverage Results" MODIFIED="1590313684854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$07_.coverage" NAME="07.元组 Coverage Results" MODIFIED="1590306919786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1590235110699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/package_runoob" />
     <SUITE FILE_PATH="coverage/LearnPython27$12_IO.coverage" NAME="12.文件IO Coverage Results" MODIFIED="1590239657644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$09_.coverage" NAME="09.日期和时间 Coverage Results" MODIFIED="1590232714348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LearnPython27$20_.coverage" NAME="20.正则 Coverage Results" MODIFIED="1590325209303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$02_.coverage" NAME="02.运算符 Coverage Results" MODIFIED="1590222520870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$15_.coverage" NAME="15.异常处理 Coverage Results" MODIFIED="1590240199973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/LearnPython27$08_.coverage" NAME="08.字典 Coverage Results" MODIFIED="1590307471996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LearnPython27$08_.coverage" NAME="08.字典 Coverage Results" MODIFIED="1590308488998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LearnPython27$17_json.coverage" NAME="17.json功能 Coverage Results" MODIFIED="1590311590234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$03_.coverage" NAME="03.控制语句 Coverage Results" MODIFIED="1590225445111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LearnPython27$16_.coverage" NAME="16.面向对象 Coverage Results" MODIFIED="1590310269459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$04_.coverage" NAME="04.数字 Coverage Results" MODIFIED="1590227145031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$example.coverage" NAME="example Coverage Results" MODIFIED="1590236170366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/LearnPython27$11_.coverage" NAME="11.模块 Coverage Results" MODIFIED="1590234274872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
