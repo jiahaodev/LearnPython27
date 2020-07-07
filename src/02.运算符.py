@@ -47,6 +47,18 @@ print c
 # 成员运算符  (测试是否包含)
 #  in  , not in
 
+# 注意： in 判断 list、tuple、string这是没有争议的。
+#          如果是判断是否在字典中，则是指是否有该key值。
+dic = {"a":111,"b":222}
+print "a" in dic
+print 111 in dic
+
+
+
 # 身份运算符
 # is  is not
 #is用于判断两个变量引用是否同一个，==用于判断引用变量的值是否相等
+
+
+
+
